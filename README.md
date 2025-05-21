@@ -116,7 +116,7 @@ The `flask_forecast_server.py` currently supports `temperature_2m` variable down
     ```json
     {
         "status": "healthy",
-        "timestamp": "20XX-XX-XXTXX:00:00Z",
+        "timestamp": "2025-05-20T21:41:38.479511",
         "data_directory": "data"
     }
     ```
